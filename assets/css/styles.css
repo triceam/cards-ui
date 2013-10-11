@@ -47,8 +47,7 @@ body {
 
 .float-left .card {
     float:left;
-    width:100%;
-    max-width:300px;  
+    width:300px;  
     height:270px;
 }
 
