@@ -66,30 +66,6 @@ body {
     overflow:hidden;
 }
 
-
-.responsive {
-    width:100%;  
-    max-width:500px;
-}
-
-@media (min-width:500px) {
-    .responsive {
-        width:45%;   
-    }
-}
-
-@media (min-width:1000px) {
-    .responsive {
-        width:30%;     
-    }
-}
-
-@media (min-width:1500px) {
-    .responsive {
-        width:23%;     
-    }
-}
-
 .card h1 {
     margin:0px;
     padding:10px;
